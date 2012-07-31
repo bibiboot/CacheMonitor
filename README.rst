@@ -11,10 +11,10 @@ Usage
 memview folder is for single memcache monitoring in a more detailed fashion.
 memview_dist is for distributed memcache monitoring on a basic level.
 
-    For single memcache monitoring
+    For single memcache monitoring.
     cd memview
     python memview.py
 
-    For distributed memcache monitoring 
+    For distributed memcache monitoring.
     cd memview_dist
     python memview.py
