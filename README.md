@@ -40,7 +40,7 @@ Make the following changes corresponding to the server address of the memcache b
 Commands
 ========================
 
-`Keys`
+    **Keys**
     up or down: Traverse pages.
     r         : refresh
     q         : Quit
