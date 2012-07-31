@@ -42,6 +42,6 @@ Commands
 
     **Keys**
     up or down: Traverse pages.
-    r         : refresh
-    q         : Quit
+    r         : Refresh.
+    q         : Quit.
 
